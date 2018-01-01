@@ -19,6 +19,7 @@ Todo
 * Add upip to be install packages
 * Export USB GPIOs from the host machine inside the container
 * Export I2C bus from the host machine inside the container
+* Add more examples that does not require extra hardware
 
 Links
 =====
