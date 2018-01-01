@@ -18,3 +18,8 @@ Todo
 
 * Export USB GPIOs from the host machine inside the container
 * Export I2C bus from the host machine inside the container
+
+Links
+=====
+
+* https://hub.docker.com/r/zoobab/micropython-lede/
