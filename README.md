@@ -41,3 +41,4 @@ Links
 
 * Docker hub automated built image: https://hub.docker.com/r/zoobab/micropython-lede/
 * Based on the "Minimal LEDE Docker container" by Oskarirauta: https://hub.docker.com/r/oskarirauta/lede-docker/
+* Same project but based on Alpine Linux: https://github.com/zoobab/micropython-alpine
